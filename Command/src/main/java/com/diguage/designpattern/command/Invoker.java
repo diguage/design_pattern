@@ -2,10 +2,9 @@ package com.diguage.designpattern.command;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Administrator
+ * User: D瓜哥，http://www.diguage.com/
  * Date: 13-7-29
  * Time: 下午3:43
- * To change this template use File | Settings | File Templates.
  */
 public class Invoker {
     private Command command;

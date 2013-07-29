@@ -2,10 +2,9 @@ package com.diguage.designpattern.command;
 
 /**
  * Created with IntelliJ IDEA.
- * User: Administrator
+ * User: D瓜哥，http://www.diguage.com/
  * Date: 13-7-29
  * Time: 下午3:40
- * To change this template use File | Settings | File Templates.
  */
 public class Receiver {
     public void action() {
