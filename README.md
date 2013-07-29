@@ -4,3 +4,4 @@
 
 1. [命令模式](./Command/README.md)
 2. [职责链模式](./ChainOfResponsibility/README.md)
+3. [桥接模式](./Bridge/README.md)
